@@ -1,5 +1,5 @@
 
-const sum= (a,b)=>{
+const sum= (a)=>{
     return a+b;
 }
 
